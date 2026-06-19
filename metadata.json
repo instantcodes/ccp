@@ -1,0 +1,6 @@
+{
+  "name": "Campus Complaint Management System",
+  "description": "A centralized campus portal for students to register, track, and resolve complaints efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
